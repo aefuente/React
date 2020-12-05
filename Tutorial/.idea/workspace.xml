@@ -3,9 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="318e20dc-520f-4aaf-9c5f-09181af4b64c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ButtonToggle.js" beforeDir="false" afterPath="$PROJECT_DIR$/ButtonToggle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExtractingComponents.js" beforeDir="false" afterPath="$PROJECT_DIR$/ExtractingComponents.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LifeCycles.js" beforeDir="false" afterPath="$PROJECT_DIR$/LifeCycles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tic-Tac-Toe/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/Tic-Tac-Toe/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TickingClock.js" beforeDir="false" afterPath="$PROJECT_DIR$/TickingClock.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/introJSX.js" beforeDir="false" afterPath="$PROJECT_DIR$/introJSX.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +57,7 @@
       <workItem from="1607031907110" duration="183000" />
       <workItem from="1607092194770" duration="226000" />
       <workItem from="1607197181850" duration="28000" />
-      <workItem from="1607197230437" duration="4830000" />
+      <workItem from="1607197230437" duration="5336000" />
     </task>
     <servers />
   </component>

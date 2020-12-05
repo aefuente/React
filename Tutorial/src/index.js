@@ -24,6 +24,7 @@ class Toggle extends React.Component {
         );
     }
 }
+
 ReactDOM.render(
     <Toggle />,
     document.getElementById('root')
