@@ -2,30 +2,16 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
-class Toggle extends React.Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            isToggleOn: true
-        };
-        this.handleClick = this.handleClick.bind(this);
-    }
+const numbers = [1,2,3,4,5];
 
-    handleClick() {
-        this.setState(state => ({
-            isToggleOn: !state.isToggleOn
-        }));
-    }
-    render(){
-        return (
-            <button onClick={this.handleClick}>
-                {this.state.isToggleOn ? 'ON' : 'OFF'}
-            </button>
-        );
-    }
+
+function NumberList(props) {
+    const numbers = props.numbers;
+    const listItems = numbers.map((numbers) => <li key={numbers.toString()}>{numbers}</li>);
+    return <ul>{listItems}</ul>;
 }
 
 ReactDOM.render(
-    <Toggle />,
+    <NumberList numbers={numbers}/>,
     document.getElementById('root')
 );
